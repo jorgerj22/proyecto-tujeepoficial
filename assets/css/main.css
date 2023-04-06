@@ -3587,7 +3587,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 
 	#intro {
 		padding: 4rem 4rem 2rem 4rem;
-		min-height: 50vh;
+		min-height: 51vh;
 		background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/Jeep-Compas-y-Renegade-Serie-S.jpg");
 	background-size: auto, auto, 100% auto;
 	background-position: center, center, top center;
