@@ -4720,7 +4720,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 @media screen and (max-width: 736px) {
 
 	#navPanelToggle {
-		font-size: 1.8rem;
+		font-size: 1.1rem;
 		padding: 0.25rem 1rem;
 	}
 
