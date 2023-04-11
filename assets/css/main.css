@@ -246,6 +246,18 @@ textarea {
 	line-height: 2.375;
 }
 
+.renegade {
+	border-radius: 10px;
+}
+
+.compass {
+	border-radius: 10px;
+}
+
+.landing {
+	border-radius: 10px;
+}
+
 a {
 	-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 	-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
